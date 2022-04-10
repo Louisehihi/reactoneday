@@ -3,11 +3,13 @@
   font-size: 40px;
   padding-top:10px;
   font-weight: bold;
+  margin-right:10px;
 }
 .sound{
   font-size: 20px;
   color: #FFCA28;
   font-weight: bold;
+  margin-right:10px;
 }
 .wrapper{
   /* height: 100%; */
