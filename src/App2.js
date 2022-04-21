@@ -1,7 +1,11 @@
 function App2() {
     return (
-        <div></div>
+        <div className="container">
+            <div>1</div>
+
+        </div>
     )
+        
 }
 
 export default App2;
